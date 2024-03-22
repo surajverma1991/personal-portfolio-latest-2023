@@ -2,7 +2,7 @@
 :root.light {
   --background: #fff;
   --foreground: #000;
-  --primary-color: #86ff18;
+  --primary-color: #df8c5a;
   --gray-color: #edebeb;
   --success-color: #61b752;
 }
@@ -10,7 +10,7 @@
 :root.dark {
   --background: #080808;
   --foreground: #fff;
-  --primary-color: #d32f2f;
+  --primary-color: #8f1919;
   --gray-color: #262626;
   --success-color: #61b752;
 }
